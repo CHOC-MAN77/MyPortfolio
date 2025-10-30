@@ -95,7 +95,7 @@ export default function HeroSection() {
 
             <div className="relative w-full h-full rounded-full overflow-hidden border-4 border-violet-600/50 shadow-2xl shadow-violet-500/50">
               <Image
-                src="/dev web.webp"
+                src="/AT.jpg"
                 alt="Athanase Ngaiporo"
                 fill
                 className="object-cover"
