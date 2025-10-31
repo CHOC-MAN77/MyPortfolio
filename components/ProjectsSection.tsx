@@ -19,7 +19,7 @@ const projects = [
   {
     title: "Contact Form",
     description:
-      "Prototype d'un système de transaction en cryptomonnaie via une banque.",
+      "Formulaire de contacte.",
     image: "/contactform.png",
     tech: ["React.js", "Tailwind CSS", "Sweetalert2", "Web3Forms", "Javascript"],
     github: "https://github.com/CHOC-MAN77/contact-form.git",
@@ -28,11 +28,11 @@ const projects = [
   {
     title: "User Interface Design",
     description:
-      "Application web pour commande en ligne avec panier et gestion des menus.",
-    image: "/dev web2.webp",
-    tech: ["Next.js", "Tailwind CSS", "Express", "MongoDB"],
-    github: "#",
-    demo: "#",
+      "Interface utilisateur",
+    image: "/untitled-ui.png",
+    tech: ["Next.js", "Tailwind CSS", "TypeScript"],
+    github: "https://github.com/CHOC-MAN77/Untitled-UI.git",
+    demo: "https://untitled-ui-dun.vercel.app/",
   },
 ];
 
