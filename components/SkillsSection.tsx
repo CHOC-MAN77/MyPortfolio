@@ -15,7 +15,7 @@ const skills = [
   {
     icon: Server,
     title: "Back-end",
-    items: ["SQLServer", "Express", "MySQL"],
+    items: ["SQLServer","MySQL"],
     gradient: "from-green-500 to-emerald-500",
   },
   {
