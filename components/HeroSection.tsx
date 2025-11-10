@@ -67,7 +67,7 @@ export default function HeroSection() {
             transition={{ delay: 0.8 }}
           >
             <a
-              href="/CV AT.pdf"
+              href="/AT CV.pdf"
               download
               className="px-6 py-3 bg-gradient-to-r from-violet-600 to-pink-600 text-white rounded-lg font-medium hover:shadow-lg hover:shadow-violet-500/50 transition-all duration-300 flex items-center gap-2"
             >
