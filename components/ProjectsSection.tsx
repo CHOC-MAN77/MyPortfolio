@@ -26,13 +26,13 @@ const projects = [
     demo: "https://contact-form-27b8ykwbn-athanases-projects.vercel.app",
   },
   {
-    title: "User Interface Design",
+    title: "Seurity Fire Website",
     description:
-      "Interface utilisateur",
+      "Site web Sécurité Incendie",
     image: "/untitled-ui.png",
     tech: ["Next.js", "Tailwind CSS", "TypeScript"],
-    github: "https://github.com/CHOC-MAN77/Untitled-UI.git",
-    demo: "https://untitled-ui-dun.vercel.app/",
+    github: "https://github.com/CHOC-MAN77/securityFire.git",
+    demo: "https://security-fire-43an3lnki-athanases-projects.vercel.app",
   },
 ];
 
